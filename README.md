@@ -5,4 +5,6 @@ DPSolver es una herramienta didáctica e interactiva, diseñada para brindar apo
 
 La herramienta fue desarrollada como trabajo final de dos materias dictadas en el primer cuatrimestre del 2º año de una carrera de informática que involucran contenidos en lógica y análisis y diseño de algoritmos.
 
+En la rama principal (gh-pages) se encuentra lo necesario para levantarlo en la página, es decir, los archivos JavaScript generados por la JSNI y GWT, mientras tanto en la rama master se encuentra el código fuente en su totalidad.
+
 http://mfco.github.io/DPSolver/
